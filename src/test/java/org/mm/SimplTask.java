@@ -13,4 +13,12 @@ private void m3() {
 	// TODO Auto-generated method stub
 
 }
+private void dell() {
+	// TODO Auto-generated method stub
+
+}
+private void Hp() {
+	// TODO Auto-generated method stub
+
+}
 }
